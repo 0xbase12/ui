@@ -1,7 +1,7 @@
 {
+    "bootstrap-sha": "713e58db686b6222a1b4116e00d518ba832be946",
     "packages": {
       ".": {
-        "bootstrap-sha": "713e58db686b6222a1b4116e00d518ba832be946",
         "changelog-path": "CHANGELOG.md",
         "release-type": "java",
         "bump-minor-pre-major": false,
@@ -10,7 +10,7 @@
         "draft": false,
         "prerelease": false,
         "extra-files": [
-          "project.clj"
+          "code/project.clj"
         ],
         "changelog-sections": [
         { "type": "feat", "section": "Features" },

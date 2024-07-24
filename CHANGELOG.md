@@ -6,6 +6,14 @@
 
 ## Released
 
+## [2.37.2](https://github.com/0xbase12/ui/compare/v2.37.2-SNAPSHOT...2.37.2) (2024-07-24)
+
+
+### Bug Fixes
+
+* **ci:** extra ([56f9262](https://github.com/0xbase12/ui/commit/56f92628cee39830351aed9f7c271584549eda44))
+* **ci:** something ([a33a5f2](https://github.com/0xbase12/ui/commit/a33a5f2381d177f4191bf50791836341d6e2f774))
+
 ## [2.37.1] - 2024-06-18
 
 - Notifications - Use content-type for data-records instead of tag

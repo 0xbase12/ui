@@ -6,6 +6,14 @@
 
 ## Released
 
+## [2.38.1](https://github.com/0xbase12/ui/compare/2.38.0...2.38.1) (2024-07-24)
+
+
+### Bug Fixes
+
+* **ci:** extra files and move configs ([b47f025](https://github.com/0xbase12/ui/commit/b47f025975812acdac042efe36b2dab162c86b9e))
+* **ci:** replace build process ([03e8f6d](https://github.com/0xbase12/ui/commit/03e8f6d7db974fcba494f5538fb1cad0922a80cc))
+
 ## [2.38.0](https://github.com/0xbase12/ui/compare/2.37.2...2.38.0) (2024-07-24)
 
 

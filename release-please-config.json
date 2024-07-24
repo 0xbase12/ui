@@ -1,8 +1,9 @@
 {
-    "bootstrap-sha": "713e58db686b6222a1b4116e00d518ba832be946",
+    "bootstrap-sha": "a7feecf7408b5a15f10bd499cfa022fab32ddfeb",
     "packages": {
       ".": {
-        "release-type": "java"
+        "release-type": "java",
+        "include-v-in-tag": false
       }
     },
     "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
